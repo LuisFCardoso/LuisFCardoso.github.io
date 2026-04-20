@@ -13,4 +13,4 @@ Previously, in 2024 I completed my master’s degree at Paris-Dauphine Universit
 
 My main interests in Probability, specifically on particle systems and SPDEs.
 
-My [CV] (/files/CV.pdf)
+My [CV](/files/CV.pdf)
