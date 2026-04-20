@@ -11,35 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Mathematics, IMPA, 2028 (expected);
+* M.S. in Pure and Applied Mathematics, Paris-Dauphine University, 2024;
+* B.S. in Mathematics, University of São Paulo, 2022.
 
 Publications
 ======
@@ -47,6 +21,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Academic Visits
+======
+* March-September 2026:
+  * Hendrik Weber Group, University of Münster;
+  * With the support of Cluster of Excellence Mathematics Münster.
+
+* September-December 2025:
+  * BICMR, Peking University;
+  * With the support of PKU.
+
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
