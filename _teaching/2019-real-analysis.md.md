@@ -1,10 +1,9 @@
 ---
-title: "Teaching Assistant: Real Analysis"
+title: "Teaching Assistant: Real Analysis (2019)"
 collection: teaching
-type: "Undergraduate course, First semester 2019"
-permalink: /teaching/ta-course
+type: "Undergraduate course, First semester"
+permalink: /teaching/2019-real-analysis
 venue: "University of São Paulo"
 date: 2019-01-01
-#location: "[City, Country]"
 ---
-Graded monthly homework for ∼ 50 second year students, held weekly office hours and proctored exam.
+Graded monthly homework for ∼50 second-year students, held weekly office hours, and proctored exams.
