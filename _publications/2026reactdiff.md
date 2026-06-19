@@ -3,14 +3,10 @@ title: "Critical stationary fluctuations in reaction--diffusion processes"
 collection: publications
 category: preprints
 permalink: /publication/2026reactdiff
-excerpt: 'Joint with Claudio Landim and Kenkichi Tsunoda.<br> We prove convergence of fluctuations under the stationary measure of a critical reaction--diffusion model to a non Gaussian measure.' 
+excerpt: 'Joint with Claudio Landim and Kenkichi Tsunoda.<br> We prove convergence of fluctuations under the stationary measure of a critical reaction--diffusion model to a non Gaussian measure.<br><br><a href="https://arxiv.org/pdf/2603.09039v1" target="_blank" style="text-decoration: underline;"><strong>Open Paper in New Tab</strong></a>' 
 date: 2026-03-01
 venue: 'arXiv'
-slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2603.09039v1'
 link: 'https://arxiv.org/pdf/2603.09039v1'
-bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is joint with Claudio Landim and Kenkichi Tsunoda.
 
